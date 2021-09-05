@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kristyleann
+- 🌱 I’m currently working through freecodecamp and tryhackme from the very beginning. Learning as much as I can. Figured an account here might be useful at some point.
+- 📫 How to reach me? facebook.com/kristyleannmorgan
